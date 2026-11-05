@@ -2,3 +2,9 @@ Hello. This is my poem with a few lines and a few rhymes
 Im doing this for an important activity in a computer of mine
 Currently behind one deadline in another subject, but I think Im fine
 As long as I pass them, more or less in the right time
+
+I forgot to change up the naming convention
+Now I have to put up with the branch named unicorn
+Its my bad thanks to my lack of attention
+Yet I think Im in the right path
+I just hope this is still passable despite the lack of metaphors...
